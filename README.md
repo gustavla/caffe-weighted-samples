@@ -1,3 +1,7 @@
+* **Note:** Newer version: https://github.com/gustavla/caffe/tree/gustav
+  
+  This offers the same functionality in a less invasive way, which means it can be kept up-to-date with the master branch much easier.
+
 # Caffe with weighted samples
 
 This is a branch of Caffe that allows training with weighted samples. The
